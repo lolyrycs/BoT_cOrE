@@ -1,0 +1,38 @@
+****************************************************************************
+
+
+	*****
+U) 	Che cosa fa VEM?
+B) 	E' un'azienda operatrice nel settore infrastrutturale delle reti informatiche e al suo interni è divisa in due sezioni: 
+	una si occupa dello sviluppo software, l'altra della sicurezza.
+
+	*****
+U) 	Quanti clienti ha VEM?
+B) 	Circa 800.
+	
+	***
+U) 	In cosa può essere utile VEM?
+B) 	E' specializzata in Networking e Data Center. 
+	Sei interessato ai prodotti VEM o vorresti diventare un collaboratore?
+	- Prodotti
+	- Collaboratore
+
+	**
+#Tecnologie - Tecnologie utilizzate	
+U) 	Quali sono le tecnologie più utilizzate?
+B) 	Tecnologie Cloud: Mobile, Ufield computing, Storage
+	
+	**
+U) 	Che cosa è myVEM?
+B) 	LINK; E' una delle tre aree principali con AMY ed ECAT.
+	
+	
+U) 	Quali sono aziende del gruppo VEM?
+B) 	- MyDev		- Certego	 - Vem 
+
+
+#Link con 
+- offerte di lavoro, personale
+- certificazione
+- eventi
+- contatti
